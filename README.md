@@ -1,2 +1,2 @@
-# React-Portfolio-Page
+# react-portfolio
 react portfolio
